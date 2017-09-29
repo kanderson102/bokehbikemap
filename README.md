@@ -10,4 +10,5 @@ The lines are aggregated my latitude and longitude then split into consecutive c
 This is then mapped to an RGB value. Combined with the line segment this is plotted to reveal a color map gradient corresponding each line to its elevation.
 
 ### To-Do
-This is in test mode right now so the color mapping is not complete right now
+- This is in test mode right now so the color mapping is not complete right now
+- Make into Flask app
